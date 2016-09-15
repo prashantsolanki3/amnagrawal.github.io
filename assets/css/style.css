@@ -250,7 +250,7 @@ main, .notepad-share-icons, .notepad-disqus {
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
-    font-size: 0.625rem;
+    font-size: 1.395rem;
     margin: 0;
     padding: 0;
     line-height: 1.1; }
@@ -259,16 +259,16 @@ main, .notepad-share-icons, .notepad-disqus {
   @media only screen and (min-width: 40.063em) {
     .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
       text-align: left;
-      font-size: 2.125rem;
-      margin-bottom: 0.9375rem; } }
+      font-size: 1.825rem;
+      margin-bottom: 0.8051rem; } }
   .notepad-content .notepad-index-post .notepad-post-excerpt {
     color: black;
-    font-size: 1.25rem;
-    margin-top: 0.625rem;
+    font-size: 1.07rem;
+    margin-top: 0.535rem;
     text-align: center; }
     .notepad-content .notepad-index-post .notepad-post-excerpt p {
       margin: 0;
-      font-size: 1.25rem; }
+      font-size: 1.07rem; }
   @media only screen and (min-width: 40.063em) {
     .notepad-content .notepad-index-post .notepad-post-excerpt {
       text-align: left; } }
