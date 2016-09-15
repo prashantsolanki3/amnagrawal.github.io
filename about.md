@@ -8,7 +8,6 @@ chart: true
 ---
 <figure>
   <img src="{{ site.url }}/images/aman-agrawal.jpg" alt="Aman Agrawal">
-  <figcaption>Aman Agrawal</figcaption>
 </figure>
 
 {% assign total_words = 0 %}

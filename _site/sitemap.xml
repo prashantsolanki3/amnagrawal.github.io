@@ -10,6 +10,10 @@
     </url>
     
     <url>
+        <loc>/Notepad/about/index.html</loc>
+    </url>
+    
+    <url>
         <loc>/Notepad/categories/index.html</loc>
     </url>
     
@@ -41,34 +45,6 @@
         <loc>/Notepad/tags/index.html</loc>
     </url>
     
-    <url>
-        <loc>/Notepad/page2/</loc>
-    </url>
-    
 
-    
-    <url>
-        <loc>/Notepad/webdevelopment/why-jekyll</loc>
-    </url>
-    
-    <url>
-        <loc>/Notepad/personal/introducing-notepad</loc>
-    </url>
-    
-    <url>
-        <loc>/Notepad/theme/documentation</loc>
-    </url>
-    
-    <url>
-        <loc>/Notepad/theme/readability-feature-post</loc>
-    </url>
-    
-    <url>
-        <loc>/Notepad/articles/readability-post</loc>
-    </url>
-    
-    <url>
-        <loc>/Notepad/articles/theme-elements</loc>
-    </url>
     
 </urlset>
