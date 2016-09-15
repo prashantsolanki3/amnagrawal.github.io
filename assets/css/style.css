@@ -74,10 +74,9 @@ main, .notepad-share-icons, .notepad-disqus {
     padding-top: 0;
     padding-bottom: 3.125rem; }
     .notepad-blog-menu ul li {
-      display: block;
       margin: 0;
       width: 100%;
-      font-size: 2.25rem;
+      font-size: 1.5rem;
       text-align: center;
       padding: 0.3125rem; }
       .notepad-blog-menu ul li a {
