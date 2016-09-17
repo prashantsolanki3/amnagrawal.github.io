@@ -18,6 +18,7 @@ I had been planning to start this blog for quite some time now, but due to vario
 This blog is going to be about my views, experiences and projects. Most of the things would be technical stuff, as I like to work with different technologies and topics in computer science. But in addition to that, there will be some non-technical stuff as well (just to engage more crowd) which I haven't yet thought of 😝. But I'll try to keep the technical stuff as interesting.
 
 Okay for now, I need a favour from you all. Currently my site is hosted on Github via github-pages, as is evident from the site's URL. I want a different domain name for this blog. Thus, I want you all to suggest some domain names in the comments section below. Check out the availability of a domain name using [this](https://www.namecheap.com/domains.aspx) link. Please consider the following points before suggesting:
+
 * **MUST** have `.me` extension
 * Easy to remember
 * Should be less prone to spelling errors (otherwise amanagrawal.me is available :P)
