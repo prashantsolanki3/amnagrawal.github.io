@@ -7,6 +7,7 @@ category: RBS
 imagefeature: rbs-team.jpg
 comments: true
 share: true
+featured: true
 ---
 
 So friends, all the hard work has finally paid off. And now I have got a placement offer from **Royal Bank of Scotland (RBS)**.
