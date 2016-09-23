@@ -16,7 +16,7 @@ About an year before, I wasn't eligible to sit for companies that came to recrui
 
 While I am at it, I would like to thank a few people who have helped me achieve this feat. First of all I'd like to thank my parents and my brother, for everything that they have done for me. There are no words "golden" enough to describe their part in this. Then, there comes the part that my friends played. This is going to be a long list, so I'll try to mention only a particular few of them. 
 
-* I'll begin with the friends I often hang out with. These are Abhinn, Armaan, Anurag, Anshul, Ankita, Nisha and Abhishek (a.k.a Damru). These people are the ones who have always been with me right from the beginning.
+* I'll begin with the friends I often hang out with. These are Abhinn, Armaan, Anurag, Anshul, Ankita, Nisha, Osheen and Abhishek (a.k.a Damru). These people are the ones who have always been with me right from the beginning.
 * Then, my old PGmates Shrey, Tanmay, Rahul, Swetank and Shubham Dokania. Shubham has been like my mentor for the best in class guidance he gives about various technologies.
 * I would also like to thank Shreya Kashyap, Aditya Agrawal, Shefali, Pallavi and Neha Verma. These probably are the only ones that I like to talk to when I am feeling low, apart from all the fine times. Thank you for your everlasting support and motivation.
 * My seniors Sidhharth sir, Jai sir, Pranjul sir, Shreya maam, Pranav sir, Asad sir and Anil sir, thank you for the valuable guidance and advise you have given to make the college life so easy and interesting.
