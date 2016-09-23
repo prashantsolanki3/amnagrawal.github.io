@@ -18,7 +18,7 @@ While I am at it, I would like to thank a few people who have helped me achieve 
 
 * I'll begin with the friends I often hang out with. These are Abhinn, Armaan, Anurag, Anshul, Ankita, Nisha, Osheen and Abhishek (a.k.a Damru). These people are the ones who have always been with me right from the beginning.
 * Then, my old PGmates Shrey, Tanmay, Rahul, Swetank and Shubham Dokania. Shubham has been like my mentor for the best in class guidance he gives about various technologies.
-* I would also like to thank Shreya Kashyap, Aditya Agrawal, Shefali, Pallavi and Neha Verma. These probably are the only ones that I like to talk to when I am feeling low, apart from all the fine times. Thank you for your everlasting support and motivation.
+* I would also like to thank Amulya, Shreya Kashyap, Aditya Agrawal, Shefali, Pallavi and Neha Verma. These probably are the only ones that I like to talk to when I am feeling low, apart from all the fine times. Thank you for your everlasting support and motivation.
 * My seniors Sidhharth sir, Jai sir, Pranjul sir, Shreya maam, Pranav sir, Asad sir and Anil sir, thank you for the valuable guidance and advise you have given to make the college life so easy and interesting.
 * And finally all my juniors from my PG, my SIAM team, and all those in touch with me for their continuous support and encouragement.
 
