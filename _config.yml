@@ -156,6 +156,23 @@ prose:
           label: "Comments"
           value: false
 
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 4
+start-delay: 200
+delete-delay: 500
+dynamic-text-element-id: dynamic-description
+lines: # You can add HTML tags in the Text
+  - text: "The lower you fall, the higher you'll fly."
+  - text: "Where’s your will to be weird?"
+
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
